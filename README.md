@@ -1,7 +1,11 @@
 # Comp-Sbor
 Comp-Sbor — это 2D игра, в которой вы собираете компьютеры под заказ из различных комплектующих.
 
-Поиграть: 
+Поиграть: https://gamingdealers.itch.io/comp-sbor
+## Код
+Исходники скриптов находятся в папке [`Scripts/`](Scripts/).
+
+
 <img width="1919" height="1079" alt="Снимок экрана 2025-09-05 120039" src="https://github.com/user-attachments/assets/75e88277-3355-40c3-b60c-8cbe8d3715a5" />
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/5543101c-4da0-4b07-9e5a-3560bb16552b" />
 
